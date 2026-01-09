@@ -1,0 +1,54 @@
+{
+    "configuration": {
+        "className": "com.liferay.headless.admin.list.type.dto.v1_0.ListTypeDefinition",
+		"parameters": {
+			"containsHeaders": "true",
+			"createStrategy": "UPSERT",
+			"importStrategy": "ON_ERROR_FAIL",
+			"updateStrategy": "UPDATE"
+		},
+		"taskItemDelegateName": "DEFAULT"
+    },
+    "items": [
+        {
+            "externalReferenceCode": "ed31ec5d-dbbd-3d18-27c2-d28487d71b5e",
+            "listTypeEntries": [
+                {
+                    "externalReferenceCode": "1ef1ce69-97c8-f1f8-7c49-ec01e44bff9d",
+                    "key": "HomeWin",
+                    "name": "Home win",
+                    "name_i18n": {
+                        "en-US": "Home win"
+                    },
+                    "system": false,
+                    "type": ""
+                },
+                {
+                    "externalReferenceCode": "8ff5e465-289a-4b8c-6fec-0904fba8668d",
+                    "key": "Tie",
+                    "name": "Tie",
+                    "name_i18n": {
+                        "en-US": "Tie"
+                    },
+                    "system": false,
+                    "type": ""
+                },
+                {
+                    "externalReferenceCode": "b648f3a2-fca0-1fac-223c-315335be8997",
+                    "key": "AwayWin",
+                    "name": "Away win",
+                    "name_i18n": {
+                        "en-US": "Away win"
+                    },
+                    "system": false,
+                    "type": ""
+                }
+            ],
+            "name": "Game outcome",
+            "name_i18n": {
+                "en-US": "Game outcome"
+            },
+            "system": false
+        }
+    ]
+}

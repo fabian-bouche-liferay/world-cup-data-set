@@ -1,0 +1,15 @@
+assemble:
+    -   from: batch
+        into: batch
+world-cup-data-batch:
+    name: European Qualifiers for 2026 FIFA World Cup Data
+    oAuthApplicationHeadlessServer: world-cup-data-batch-oahs
+    type: batch
+world-cup-data-batch-oahs:
+    .serviceAddress: localhost:8080
+    .serviceScheme: http
+    name: European Qualifiers for 2026 FIFA World Cup Data OAuth Application Headless Server
+    scopes:
+        -   c_game.everything
+        -   c_team.everything
+    type: oAuthApplicationHeadlessServer

@@ -1,0 +1,338 @@
+{
+    "configuration": {
+        "className": "com.liferay.object.rest.dto.v1_0.ObjectEntry",
+        "parameters": {
+            "containsHeaders": "true",
+            "createStrategy": "UPSERT",
+            "importStrategy": "ON_ERROR_FAIL",
+            "updateStrategy": "UPDATE"
+        },
+        "taskItemDelegateName": "C_Team"
+    },
+    "items": [
+        {
+            "externalReferenceCode": "ALB",
+            "countryFlagCode": "AL",
+            "currentForm": "LWWWT",
+            "name": "Albania"
+        },
+        {
+            "externalReferenceCode": "AND",
+            "countryFlagCode": "AD",
+            "currentForm": "LLTLL",
+            "name": "Andorra"
+        },
+        {
+            "externalReferenceCode": "ARM",
+            "countryFlagCode": "AM",
+            "currentForm": "LLLLW",
+            "name": "Armenia"
+        },
+        {
+            "externalReferenceCode": "AUT",
+            "countryFlagCode": "AT",
+            "currentForm": "TWLWW",
+            "name": "Austria"
+        },
+        {
+            "externalReferenceCode": "AZE",
+            "countryFlagCode": "AZ",
+            "currentForm": "LLLLT",
+            "name": "Azerbaijan"
+        },
+        {
+            "externalReferenceCode": "BEL",
+            "countryFlagCode": "BE",
+            "currentForm": "WTWTW",
+            "name": "Belgium"
+        },
+        {
+            "externalReferenceCode": "BIH",
+            "countryFlagCode": "BA",
+            "currentForm": "TWTLW",
+            "name": "Bosnia and Herzegovina"
+        },
+        {
+            "externalReferenceCode": "BLR",
+            "countryFlagCode": "BY",
+            "currentForm": "TTLLL",
+            "name": "Belarus"
+        },
+        {
+            "externalReferenceCode": "BUL",
+            "countryFlagCode": "BG",
+            "currentForm": "WLLLL",
+            "name": "Bulgaria"
+        },
+        {
+            "externalReferenceCode": "CRO",
+            "countryFlagCode": "HR",
+            "currentForm": "WWWTW",
+            "name": "Croatia"
+        },
+        {
+            "externalReferenceCode": "CYP",
+            "countryFlagCode": "CY",
+            "currentForm": "LWTTL",
+            "name": "Cyprus"
+        },
+        {
+            "externalReferenceCode": "CZE",
+            "countryFlagCode": "CZ",
+            "currentForm": "WLTWL",
+            "name": "Czech Republic"
+        },
+        {
+            "externalReferenceCode": "DEN",
+            "countryFlagCode": "DK",
+            "currentForm": "LTWWW",
+            "name": "Denmark"
+        },
+        {
+            "externalReferenceCode": "ENG",
+            "countryFlagCode": "GB-ENG",
+            "currentForm": "WWWWW",
+            "name": "England"
+        },
+        {
+            "externalReferenceCode": "ESP",
+            "countryFlagCode": "ES",
+            "currentForm": "TWWWW",
+            "name": "Spain"
+        },
+        {
+            "externalReferenceCode": "EST",
+            "countryFlagCode": "EE",
+            "currentForm": "LTLLL",
+            "name": "Estonia"
+        },
+        {
+            "externalReferenceCode": "FIN",
+            "countryFlagCode": "FI",
+            "currentForm": "LLWLW",
+            "name": "Finland"
+        },
+        {
+            "externalReferenceCode": "FRA",
+            "countryFlagCode": "FR",
+            "currentForm": "WWTWW",
+            "name": "France"
+        },
+        {
+            "externalReferenceCode": "FRO",
+            "countryFlagCode": "FO",
+            "currentForm": "LWWWL",
+            "name": "Faroe Islands"
+        },
+        {
+            "externalReferenceCode": "GEO",
+            "countryFlagCode": "GE",
+            "currentForm": "LLLLW",
+            "name": "Georgia"
+        },
+        {
+            "externalReferenceCode": "GER",
+            "countryFlagCode": "DE",
+            "currentForm": "WWWWW",
+            "name": "Germany"
+        },
+        {
+            "externalReferenceCode": "GIB",
+            "countryFlagCode": "GI",
+            "currentForm": "LLLLL",
+            "name": "Gibraltar"
+        },
+        {
+            "externalReferenceCode": "GRE",
+            "countryFlagCode": "GR",
+            "currentForm": "TWLLL",
+            "name": "Greece"
+        },
+        {
+            "externalReferenceCode": "HUN",
+            "countryFlagCode": "HU",
+            "currentForm": "LWTWL",
+            "name": "Hungary"
+        },
+        {
+            "externalReferenceCode": "IRL",
+            "countryFlagCode": "IE",
+            "currentForm": "WWWLL",
+            "name": "Ireland"
+        },
+        {
+            "externalReferenceCode": "ISL",
+            "countryFlagCode": "IS",
+            "currentForm": "LWTLL",
+            "name": "Iceland"
+        },
+        {
+            "externalReferenceCode": "ISR",
+            "countryFlagCode": "IL",
+            "currentForm": "WLLLW",
+            "name": "Israel"
+        },
+        {
+            "externalReferenceCode": "ITA",
+            "countryFlagCode": "IT",
+            "currentForm": "LWWWW",
+            "name": "Italy"
+        },
+        {
+            "externalReferenceCode": "KAZ",
+            "countryFlagCode": "KZ",
+            "currentForm": "TTWLL",
+            "name": "Kazakhstan"
+        },
+        {
+            "externalReferenceCode": "KOS",
+            "countryFlagCode": "XK",
+            "currentForm": "TWWTW",
+            "name": "Kosovo"
+        },
+        {
+            "externalReferenceCode": "LAT",
+            "countryFlagCode": "LV",
+            "currentForm": "LLTLL",
+            "name": "Latvia"
+        },
+        {
+            "externalReferenceCode": "LIE",
+            "countryFlagCode": "LI",
+            "currentForm": "LLLLL",
+            "name": "Liechtenstein"
+        },
+        {
+            "externalReferenceCode": "LTU",
+            "countryFlagCode": "LT",
+            "currentForm": "LLLLT",
+            "name": "Lithuania"
+        },
+        {
+            "externalReferenceCode": "LUX",
+            "countryFlagCode": "LU",
+            "currentForm": "LLLLL",
+            "name": "Luxembourg"
+        },
+        {
+            "externalReferenceCode": "MDA",
+            "countryFlagCode": "MD",
+            "currentForm": "LLTLL",
+            "name": "Moldova"
+        },
+        {
+            "externalReferenceCode": "MKD",
+            "countryFlagCode": "MK",
+            "currentForm": "LTTWW",
+            "name": "North Macedonia"
+        },
+        {
+            "externalReferenceCode": "MLT",
+            "countryFlagCode": "MT",
+            "currentForm": "LWLTL",
+            "name": "Malta"
+        },
+        {
+            "externalReferenceCode": "MNE",
+            "countryFlagCode": "ME",
+            "currentForm": "LWLLL",
+            "name": "Montenegro"
+        },
+        {
+            "externalReferenceCode": "NED",
+            "countryFlagCode": "NL",
+            "currentForm": "WTWWW",
+            "name": "Netherlands"
+        },
+        {
+            "externalReferenceCode": "NIR",
+            "countryFlagCode": "GB-NIR",
+            "currentForm": "WLLWL",
+            "name": "Northern Ireland"
+        },
+        {
+            "externalReferenceCode": "NOR",
+            "countryFlagCode": "NO",
+            "currentForm": "WWWWW",
+            "name": "Norway"
+        },
+        {
+            "externalReferenceCode": "POL",
+            "countryFlagCode": "PL",
+            "currentForm": "WTWWT",
+            "name": "Poland"
+        },
+        {
+            "externalReferenceCode": "POR",
+            "countryFlagCode": "PT",
+            "currentForm": "WLTWW",
+            "name": "Portugal"
+        },
+        {
+            "externalReferenceCode": "ROU",
+            "countryFlagCode": "RO",
+            "currentForm": "WLWTW",
+            "name": "Romania"
+        },
+        {
+            "externalReferenceCode": "SCO",
+            "countryFlagCode": "GB-SCT",
+            "currentForm": "WLWWW",
+            "name": "Scotland"
+        },
+        {
+            "externalReferenceCode": "SMR",
+            "countryFlagCode": "SM",
+            "currentForm": "LLLLL",
+            "name": "San Marino"
+        },
+        {
+            "externalReferenceCode": "SRB",
+            "countryFlagCode": "RS",
+            "currentForm": "WLWLL",
+            "name": "Serbia"
+        },
+        {
+            "externalReferenceCode": "SUI",
+            "countryFlagCode": "CH",
+            "currentForm": "TWTWW",
+            "name": "Switzerland"
+        },
+        {
+            "externalReferenceCode": "SVK",
+            "countryFlagCode": "SK",
+            "currentForm": "LWWLW",
+            "name": "Slovakia"
+        },
+        {
+            "externalReferenceCode": "SVN",
+            "countryFlagCode": "SI",
+            "currentForm": "TLTTL",
+            "name": "Slovenia"
+        },
+        {
+            "externalReferenceCode": "SWE",
+            "countryFlagCode": "SE",
+            "currentForm": "TLLLL",
+            "name": "Sweden"
+        },
+        {
+            "externalReferenceCode": "TUR",
+            "countryFlagCode": "TR",
+            "currentForm": "TWWWL",
+            "name": "Turkey"
+        },
+        {
+            "externalReferenceCode": "UKR",
+            "countryFlagCode": "UA",
+            "currentForm": "WLWWT",
+            "name": "Ukraine"
+        },
+        {
+            "externalReferenceCode": "WAL",
+            "countryFlagCode": "GB-WLS",
+            "currentForm": "WWLWL",
+            "name": "Wales"
+        }
+    ]
+}

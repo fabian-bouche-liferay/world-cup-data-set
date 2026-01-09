@@ -1,0 +1,17 @@
+assemble:
+    -   from: batch
+        into: batch
+world-cup-batch:
+    name: European Qualifiers for 2026 FIFA World Cup
+    oAuthApplicationHeadlessServer: world-cup-batch-oahs
+    type: batch
+world-cup-batch-oahs:
+    .serviceAddress: localhost:8080
+    .serviceScheme: http
+    name: European Qualifiers for 2026 FIFA World Cup OAuth Application Headless Server
+    scopes:
+        -   Liferay.Headless.Admin.List.Type.everything    
+        -   Liferay.Headless.Admin.Workflow.everything
+        -   Liferay.Headless.Batch.Engine.everything
+        -   Liferay.Object.Admin.REST.everything
+    type: oAuthApplicationHeadlessServer

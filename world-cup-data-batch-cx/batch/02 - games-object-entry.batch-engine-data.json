@@ -1,0 +1,2318 @@
+{
+    "configuration": {
+        "className": "com.liferay.object.rest.dto.v1_0.ObjectEntry",
+        "parameters": {
+            "containsHeaders": "true",
+            "createStrategy": "UPSERT",
+            "importStrategy": "ON_ERROR_FAIL",
+            "updateStrategy": "UPDATE"
+        },
+        "taskItemDelegateName": "C_Game"
+    },
+    "items": [
+        {
+            "awayScore": 0,
+            "date": "2025-03-21T12:00:00Z",
+            "homeScore": 2,
+            "location": "AEK Arena - Georgios Karapatakis, Larnaca",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "SMR",
+            "r_homeTeam_c_teamERC": "CYP"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-03-21T12:00:00Z",
+            "homeScore": 0,
+            "location": "National Arena, Bucharest",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "BIH",
+            "r_homeTeam_c_teamERC": "ROU"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-03-21T12:00:00Z",
+            "homeScore": 1,
+            "location": "PGE Narodowy (National Stadium), Warsaw",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "LTU",
+            "r_homeTeam_c_teamERC": "POL"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-03-21T12:00:00Z",
+            "homeScore": 0,
+            "location": "Ta'Qali National Stadium, Ta' Qali",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "FIN",
+            "r_homeTeam_c_teamERC": "MLT"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-03-21T12:00:00Z",
+            "homeScore": 0,
+            "location": "Estadi Nacional, Andorra la Vella",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "LAT",
+            "r_homeTeam_c_teamERC": "AND"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-03-21T12:00:00Z",
+            "homeScore": 2,
+            "location": "Wembley Stadium, London",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "ALB",
+            "r_homeTeam_c_teamERC": "ENG"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-03-22T12:00:00Z",
+            "homeScore": 0,
+            "location": "Rheinpark Stadion, Vaduz",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "MKD",
+            "r_homeTeam_c_teamERC": "LIE"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-03-22T12:00:00Z",
+            "homeScore": 3,
+            "location": "Gradski Stadion, Niksic",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "GIB",
+            "r_homeTeam_c_teamERC": "MNE"
+        },
+        {
+            "awayScore": 5,
+            "date": "2025-03-22T12:00:00Z",
+            "homeScore": 0,
+            "location": "Zimbru Stadium, Chișinău",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "NOR",
+            "r_homeTeam_c_teamERC": "MDA"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-03-22T12:00:00Z",
+            "homeScore": 2,
+            "location": "Nagyerdei Stadion, Debrecen",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "EST",
+            "r_homeTeam_c_teamERC": "ISR"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-03-22T12:00:00Z",
+            "homeScore": 2,
+            "location": "Malšovická aréna, Hradec Kralove",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "FRO",
+            "r_homeTeam_c_teamERC": "CZE"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-03-22T12:00:00Z",
+            "homeScore": 3,
+            "location": "Cardiff City Stadium, Cardiff",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "KAZ",
+            "r_homeTeam_c_teamERC": "WAL"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-03-24T12:00:00Z",
+            "homeScore": 2,
+            "location": "S. Darius & S. Girenas Stadium, Kaunas",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "FIN",
+            "r_homeTeam_c_teamERC": "LTU"
+        },
+        {
+            "awayScore": 5,
+            "date": "2025-03-24T12:00:00Z",
+            "homeScore": 1,
+            "location": "San Marino Stadium, Serravalle",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ROU",
+            "r_homeTeam_c_teamERC": "SMR"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-03-24T12:00:00Z",
+            "homeScore": 3,
+            "location": "Air Albania Stadium, Tirana",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "AND",
+            "r_homeTeam_c_teamERC": "ALB"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-03-24T12:00:00Z",
+            "homeScore": 2,
+            "location": "PGE Narodowy (National Stadium), Warsaw",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "MLT",
+            "r_homeTeam_c_teamERC": "POL"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-03-24T12:00:00Z",
+            "homeScore": 2,
+            "location": "Bilino Polje Stadium, Zenica",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "CYP",
+            "r_homeTeam_c_teamERC": "BIH"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-03-24T12:00:00Z",
+            "homeScore": 3,
+            "location": "Wembley Stadium, London",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "LAT",
+            "r_homeTeam_c_teamERC": "ENG"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-03-25T12:00:00Z",
+            "homeScore": 2,
+            "location": "Zimbru Stadium, Chișinău",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "EST",
+            "r_homeTeam_c_teamERC": "MDA"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-03-25T12:00:00Z",
+            "homeScore": 0,
+            "location": "Rheinpark Stadion, Vaduz",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "KAZ",
+            "r_homeTeam_c_teamERC": "LIE"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-03-25T12:00:00Z",
+            "homeScore": 1,
+            "location": "Toše Proeski National Arena, Skopje",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "WAL",
+            "r_homeTeam_c_teamERC": "MKD"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-03-25T12:00:00Z",
+            "homeScore": 1,
+            "location": "Gradski Stadion, Niksic",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "FRO",
+            "r_homeTeam_c_teamERC": "MNE"
+        },
+        {
+            "awayScore": 4,
+            "date": "2025-03-25T12:00:00Z",
+            "homeScore": 0,
+            "location": "Estadio Algarve, Faro",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "CZE",
+            "r_homeTeam_c_teamERC": "GIB"
+        },
+        {
+            "awayScore": 4,
+            "date": "2025-03-25T12:00:00Z",
+            "homeScore": 2,
+            "location": "Nagyerdei Stadion, Debrecen",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "NOR",
+            "r_homeTeam_c_teamERC": "ISR"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-06-06T12:00:00Z",
+            "homeScore": 1,
+            "location": "Toše Proeski National Arena, Skopje",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "BEL",
+            "r_homeTeam_c_teamERC": "MKD"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-06-06T12:00:00Z",
+            "homeScore": 3,
+            "location": "Ullevaal Stadium, Oslo",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "ITA",
+            "r_homeTeam_c_teamERC": "NOR"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-06-06T12:00:00Z",
+            "homeScore": 3,
+            "location": "Cardiff City Stadium, Cardiff",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "LIE",
+            "r_homeTeam_c_teamERC": "WAL"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-06-06T12:00:00Z",
+            "homeScore": 2,
+            "location": "Doosan Arena, Pilsen",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "MNE",
+            "r_homeTeam_c_teamERC": "CZE"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-06-06T12:00:00Z",
+            "homeScore": 1,
+            "location": "A. Le Coq Arena, Tallinn",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ISR",
+            "r_homeTeam_c_teamERC": "EST"
+        },
+        {
+            "awayScore": 7,
+            "date": "2025-06-06T12:00:00Z",
+            "homeScore": 0,
+            "location": "Estadio Algarve, Faro",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "CRO",
+            "r_homeTeam_c_teamERC": "GIB"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-06-07T12:00:00Z",
+            "homeScore": 1,
+            "location": "Bilino Polje Stadium, Zenica",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "SMR",
+            "r_homeTeam_c_teamERC": "BIH"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-06-07T12:00:00Z",
+            "homeScore": 0,
+            "location": "RCDE Stadium, Cornellà de Llobregat",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ENG",
+            "r_homeTeam_c_teamERC": "AND"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-06-07T12:00:00Z",
+            "homeScore": 0,
+            "location": "Ta'Qali National Stadium, Ta' Qali",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "LTU",
+            "r_homeTeam_c_teamERC": "MLT"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-06-07T12:00:00Z",
+            "homeScore": 2,
+            "location": "Ernst Happel Stadium, Vienna",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "ROU",
+            "r_homeTeam_c_teamERC": "AUT"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-06-07T12:00:00Z",
+            "homeScore": 0,
+            "location": "Air Albania Stadium, Tirana",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "SRB",
+            "r_homeTeam_c_teamERC": "ALB"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-06-07T12:00:00Z",
+            "homeScore": 0,
+            "location": "Olympic Stadium, Helsinki",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "NED",
+            "r_homeTeam_c_teamERC": "FIN"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-06-09T12:00:00Z",
+            "homeScore": 0,
+            "location": "Astana Arena, Nur-Sultan",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "MKD",
+            "r_homeTeam_c_teamERC": "KAZ"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-06-09T12:00:00Z",
+            "homeScore": 5,
+            "location": "Opus Arena, Osijek",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "CZE",
+            "r_homeTeam_c_teamERC": "CRO"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-06-09T12:00:00Z",
+            "homeScore": 4,
+            "location": "Stade Roi Baudouin, Brussels",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "WAL",
+            "r_homeTeam_c_teamERC": "BEL"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-06-09T12:00:00Z",
+            "homeScore": 0,
+            "location": "A. Le Coq Arena, Tallinn",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "NOR",
+            "r_homeTeam_c_teamERC": "EST"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-06-09T12:00:00Z",
+            "homeScore": 2,
+            "location": "Mapei Stadium, Reggio Emilia",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "MDA",
+            "r_homeTeam_c_teamERC": "ITA"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-06-09T12:00:00Z",
+            "homeScore": 2,
+            "location": "Torsvollur, Tórshavn",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "GIB",
+            "r_homeTeam_c_teamERC": "FRO"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-06-10T12:00:00Z",
+            "homeScore": 2,
+            "location": "National Arena, Bucharest",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "CYP",
+            "r_homeTeam_c_teamERC": "ROU"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-06-10T12:00:00Z",
+            "homeScore": 3,
+            "location": "Dubočica Stadium, Leskovac",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "AND",
+            "r_homeTeam_c_teamERC": "SRB"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-06-10T12:00:00Z",
+            "homeScore": 1,
+            "location": "Skonto Stadium, Riga",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "ALB",
+            "r_homeTeam_c_teamERC": "LAT"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-06-10T12:00:00Z",
+            "homeScore": 8,
+            "location": "Euroborg, Groningen",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "MLT",
+            "r_homeTeam_c_teamERC": "NED"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-06-10T12:00:00Z",
+            "homeScore": 2,
+            "location": "Olympic Stadium, Helsinki",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "POL",
+            "r_homeTeam_c_teamERC": "FIN"
+        },
+        {
+            "awayScore": 4,
+            "date": "2025-06-10T12:00:00Z",
+            "homeScore": 0,
+            "location": "San Marino Stadium, Serravalle",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "AUT",
+            "r_homeTeam_c_teamERC": "SMR"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-04T12:00:00Z",
+            "homeScore": 0,
+            "location": "Astana Arena, Nur-Sultan",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "WAL",
+            "r_homeTeam_c_teamERC": "KAZ"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-09-04T12:00:00Z",
+            "homeScore": 2,
+            "location": "National Stadium, Tbilisi",
+            "title": "World Cup 2026 - UEFA qualifications, Group E, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "TUR",
+            "r_homeTeam_c_teamERC": "GEO"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-04T12:00:00Z",
+            "homeScore": 1,
+            "location": "S. Darius & S. Girenas Stadium, Kaunas",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "MLT",
+            "r_homeTeam_c_teamERC": "LTU"
+        },
+        {
+            "awayScore": 6,
+            "date": "2025-09-04T12:00:00Z",
+            "homeScore": 0,
+            "location": "Rheinpark Stadion, Vaduz",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "BEL",
+            "r_homeTeam_c_teamERC": "LIE"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-09-04T12:00:00Z",
+            "homeScore": 0,
+            "location": "Vasil Levski National Stadium, Sofia",
+            "title": "World Cup 2026 - UEFA qualifications, Group E, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ESP",
+            "r_homeTeam_c_teamERC": "BUL"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-04T12:00:00Z",
+            "homeScore": 2,
+            "location": "Národný futbalový štadión, Bratislava",
+            "title": "World Cup 2026 - UEFA qualifications, Group A, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "GER",
+            "r_homeTeam_c_teamERC": "SVK"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-09-04T12:00:00Z",
+            "homeScore": 1,
+            "location": "Stade de Luxembourg, Luxembourg",
+            "title": "World Cup 2026 - UEFA qualifications, Group A, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "NIR",
+            "r_homeTeam_c_teamERC": "LUX"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-04T12:00:00Z",
+            "homeScore": 1,
+            "location": "De Kuip, Rotterdam",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "POL",
+            "r_homeTeam_c_teamERC": "NED"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-05T12:00:00Z",
+            "homeScore": 5,
+            "location": "Laugardalsvollur, REYKJAVIK",
+            "title": "World Cup 2026 - UEFA qualifications, Group D, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "AZE",
+            "r_homeTeam_c_teamERC": "ISL"
+        },
+        {
+            "awayScore": 4,
+            "date": "2025-09-05T12:00:00Z",
+            "homeScore": 0,
+            "location": "Zimbru Stadium, Chișinău",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ISR",
+            "r_homeTeam_c_teamERC": "MDA"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-05T12:00:00Z",
+            "homeScore": 5,
+            "location": "Stadio Atleti Azzurri d'Italia, Bergamo",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "EST",
+            "r_homeTeam_c_teamERC": "ITA"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-05T12:00:00Z",
+            "homeScore": 5,
+            "location": "Karaiskaki Stadium, Pireas",
+            "title": "World Cup 2026 - UEFA qualifications, Group C, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "BLR",
+            "r_homeTeam_c_teamERC": "GRE"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-09-05T12:00:00Z",
+            "homeScore": 0,
+            "location": "Podgorica City Stadium, Podgorica",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "CZE",
+            "r_homeTeam_c_teamERC": "MNE"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-09-05T12:00:00Z",
+            "homeScore": 2,
+            "location": "Stožice Stadium, Ljubljana",
+            "title": "World Cup 2026 - UEFA qualifications, Group B, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "SWE",
+            "r_homeTeam_c_teamERC": "SVN"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-05T12:00:00Z",
+            "homeScore": 0,
+            "location": "Torsvollur, Tórshavn",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "CRO",
+            "r_homeTeam_c_teamERC": "FRO"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-09-05T12:00:00Z",
+            "homeScore": 0,
+            "location": "Municipal Stadium, Wrocław",
+            "title": "World Cup 2026 - UEFA qualifications, Group D, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "FRA",
+            "r_homeTeam_c_teamERC": "UKR"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-05T12:00:00Z",
+            "homeScore": 4,
+            "location": "St. Jakob-Park, Basel",
+            "title": "World Cup 2026 - UEFA qualifications, Group B, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "KOS",
+            "r_homeTeam_c_teamERC": "SUI"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-05T12:00:00Z",
+            "homeScore": 0,
+            "location": "Parken Stadium, Copenhagen",
+            "title": "World Cup 2026 - UEFA qualifications, Group C, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "SCO",
+            "r_homeTeam_c_teamERC": "DEN"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-06T12:00:00Z",
+            "homeScore": 0,
+            "location": "Daugava Stadium, Riga",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "SRB",
+            "r_homeTeam_c_teamERC": "LAT"
+        },
+        {
+            "awayScore": 5,
+            "date": "2025-09-06T12:00:00Z",
+            "homeScore": 0,
+            "location": "Vazgen Sargsyan Republican Stadium, Yerevan",
+            "title": "World Cup 2026 - UEFA qualifications, Group F, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "POR",
+            "r_homeTeam_c_teamERC": "ARM"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-06T12:00:00Z",
+            "homeScore": 2,
+            "location": "Villa Park, Birmingham",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "AND",
+            "r_homeTeam_c_teamERC": "ENG"
+        },
+        {
+            "awayScore": 6,
+            "date": "2025-09-06T12:00:00Z",
+            "homeScore": 0,
+            "location": "San Marino Stadium, Serravalle",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "BIH",
+            "r_homeTeam_c_teamERC": "SMR"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-06T12:00:00Z",
+            "homeScore": 1,
+            "location": "Raiffeisen Arena, Linz",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "CYP",
+            "r_homeTeam_c_teamERC": "AUT"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-09-06T12:00:00Z",
+            "homeScore": 2,
+            "location": "Aviva Stadium, Dublin",
+            "title": "World Cup 2026 - UEFA qualifications, Group F, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "HUN",
+            "r_homeTeam_c_teamERC": "IRL"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-07T12:00:00Z",
+            "homeScore": 3,
+            "location": "National Stadium, Tbilisi",
+            "title": "World Cup 2026 - UEFA qualifications, Group E, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "BUL",
+            "r_homeTeam_c_teamERC": "GEO"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-07T12:00:00Z",
+            "homeScore": 5,
+            "location": "Toše Proeski National Arena, Skopje",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "LIE",
+            "r_homeTeam_c_teamERC": "MKD"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-09-07T12:00:00Z",
+            "homeScore": 2,
+            "location": "S. Darius & S. Girenas Stadium, Kaunas",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "NED",
+            "r_homeTeam_c_teamERC": "LTU"
+        },
+        {
+            "awayScore": 6,
+            "date": "2025-09-07T12:00:00Z",
+            "homeScore": 0,
+            "location": "Konya Büyükşehir Belediye Stadium, Konya",
+            "title": "World Cup 2026 - UEFA qualifications, Group E, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ESP",
+            "r_homeTeam_c_teamERC": "TUR"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-07T12:00:00Z",
+            "homeScore": 6,
+            "location": "Lotto Park, Anderlecht",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "KAZ",
+            "r_homeTeam_c_teamERC": "BEL"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-07T12:00:00Z",
+            "homeScore": 3,
+            "location": "Rhein Energie Stadium, Cologne",
+            "title": "World Cup 2026 - UEFA qualifications, Group A, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "NIR",
+            "r_homeTeam_c_teamERC": "GER"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-07T12:00:00Z",
+            "homeScore": 3,
+            "location": "Stadion Śląski, Chorzow",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "FIN",
+            "r_homeTeam_c_teamERC": "POL"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-07T12:00:00Z",
+            "homeScore": 0,
+            "location": "Stade de Luxembourg, Luxembourg",
+            "title": "World Cup 2026 - UEFA qualifications, Group A, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "SVK",
+            "r_homeTeam_c_teamERC": "LUX"
+        },
+        {
+            "awayScore": 5,
+            "date": "2025-09-08T12:00:00Z",
+            "homeScore": 4,
+            "location": "Nagyerdei Stadion, Debrecen",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ITA",
+            "r_homeTeam_c_teamERC": "ISR"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-08T12:00:00Z",
+            "homeScore": 0,
+            "location": "Europa Point Stadium, Gibraltar International Airport",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "FRO",
+            "r_homeTeam_c_teamERC": "GIB"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-08T12:00:00Z",
+            "homeScore": 3,
+            "location": "St. Jakob-Park, Basel",
+            "title": "World Cup 2026 - UEFA qualifications, Group B, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "SVN",
+            "r_homeTeam_c_teamERC": "SUI"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-09-08T12:00:00Z",
+            "homeScore": 0,
+            "location": "Karaiskaki Stadium, Pireas",
+            "title": "World Cup 2026 - UEFA qualifications, Group C, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "DEN",
+            "r_homeTeam_c_teamERC": "GRE"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-08T12:00:00Z",
+            "homeScore": 4,
+            "location": "Stadion Maksimir, Zagreb",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "MNE",
+            "r_homeTeam_c_teamERC": "CRO"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-09-08T12:00:00Z",
+            "homeScore": 0,
+            "location": "ZTE Arena, Zalaegerszeg",
+            "title": "World Cup 2026 - UEFA qualifications, Group C, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "SCO",
+            "r_homeTeam_c_teamERC": "BLR"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-08T12:00:00Z",
+            "homeScore": 2,
+            "location": "Fadil Vokrri Stadium, Pristina",
+            "title": "World Cup 2026 - UEFA qualifications, Group B, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "SWE",
+            "r_homeTeam_c_teamERC": "KOS"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-09T12:00:00Z",
+            "homeScore": 2,
+            "location": "Vazgen Sargsyan Republican Stadium, Yerevan",
+            "title": "World Cup 2026 - UEFA qualifications, Group F, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "IRL",
+            "r_homeTeam_c_teamERC": "ARM"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-09T12:00:00Z",
+            "homeScore": 1,
+            "location": "Tofiq Bahramov Republican Stadium, Baku",
+            "title": "World Cup 2026 - UEFA qualifications, Group D, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "UKR",
+            "r_homeTeam_c_teamERC": "AZE"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-09-09T12:00:00Z",
+            "homeScore": 2,
+            "location": "GSP Stadium, Strovolos",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "ROU",
+            "r_homeTeam_c_teamERC": "CYP"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-09-09T12:00:00Z",
+            "homeScore": 1,
+            "location": "Bilino Polje Stadium, Zenica",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "AUT",
+            "r_homeTeam_c_teamERC": "BIH"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-09T12:00:00Z",
+            "homeScore": 2,
+            "location": "Parc des Princes, PARIS",
+            "title": "World Cup 2026 - UEFA qualifications, Group D, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "ISL",
+            "r_homeTeam_c_teamERC": "FRA"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-09-09T12:00:00Z",
+            "homeScore": 11,
+            "location": "Ullevaal Stadium, Oslo",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "MDA",
+            "r_homeTeam_c_teamERC": "NOR"
+        },
+        {
+            "awayScore": 5,
+            "date": "2025-09-09T12:00:00Z",
+            "homeScore": 0,
+            "location": "Rajko Mitić Stadium, BELGRADE",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ENG",
+            "r_homeTeam_c_teamERC": "SRB"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-09-09T12:00:00Z",
+            "homeScore": 1,
+            "location": "Air Albania Stadium, Tirana",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "LAT",
+            "r_homeTeam_c_teamERC": "ALB"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-09-09T12:00:00Z",
+            "homeScore": 2,
+            "location": "Puskás Aréna, Budapest",
+            "title": "World Cup 2026 - UEFA qualifications, Group F, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "POR",
+            "r_homeTeam_c_teamERC": "HUN"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-10-09T12:00:00Z",
+            "homeScore": 2,
+            "location": "Olympic Stadium, Helsinki",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "LTU",
+            "r_homeTeam_c_teamERC": "FIN"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-09T12:00:00Z",
+            "homeScore": 10,
+            "location": "Ernst Happel Stadium, Vienna",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "SMR",
+            "r_homeTeam_c_teamERC": "AUT"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-09T12:00:00Z",
+            "homeScore": 0,
+            "location": "Sinobo Stadium, Prague",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "CRO",
+            "r_homeTeam_c_teamERC": "CZE"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-10-09T12:00:00Z",
+            "homeScore": 2,
+            "location": "AEK Arena - Georgios Karapatakis, Larnaca",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "BIH",
+            "r_homeTeam_c_teamERC": "CYP"
+        },
+        {
+            "awayScore": 4,
+            "date": "2025-10-09T12:00:00Z",
+            "homeScore": 0,
+            "location": "Ta'Qali National Stadium, Ta' Qali",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "NED",
+            "r_homeTeam_c_teamERC": "MLT"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-10-09T12:00:00Z",
+            "homeScore": 3,
+            "location": "Hampden Park, Glasgow",
+            "title": "World Cup 2026 - UEFA qualifications, Group C, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "GRE",
+            "r_homeTeam_c_teamERC": "SCO"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-09T12:00:00Z",
+            "homeScore": 4,
+            "location": "Torsvollur, Tórshavn",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "MNE",
+            "r_homeTeam_c_teamERC": "FRO"
+        },
+        {
+            "awayScore": 6,
+            "date": "2025-10-09T12:00:00Z",
+            "homeScore": 0,
+            "location": "ZTE Arena, Zalaegerszeg",
+            "title": "World Cup 2026 - UEFA qualifications, Group C, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "DEN",
+            "r_homeTeam_c_teamERC": "BLR"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-10T12:00:00Z",
+            "homeScore": 4,
+            "location": "Astana Arena, Nur-Sultan",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "LIE",
+            "r_homeTeam_c_teamERC": "KAZ"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-10T12:00:00Z",
+            "homeScore": 3,
+            "location": "Parc des Princes, PARIS",
+            "title": "World Cup 2026 - UEFA qualifications, Group D, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "AZE",
+            "r_homeTeam_c_teamERC": "FRA"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-10T12:00:00Z",
+            "homeScore": 4,
+            "location": "PreZero Arena, Sinsheim",
+            "title": "World Cup 2026 - UEFA qualifications, Group A, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "LUX",
+            "r_homeTeam_c_teamERC": "GER"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-10T12:00:00Z",
+            "homeScore": 2,
+            "location": "Windsor Park, Belfast",
+            "title": "World Cup 2026 - UEFA qualifications, Group A, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "SVK",
+            "r_homeTeam_c_teamERC": "NIR"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-10T12:00:00Z",
+            "homeScore": 0,
+            "location": "Planet Group Arena, Ghent",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "MKD",
+            "r_homeTeam_c_teamERC": "BEL"
+        },
+        {
+            "awayScore": 5,
+            "date": "2025-10-10T12:00:00Z",
+            "homeScore": 3,
+            "location": "Laugardalsvollur, REYKJAVIK",
+            "title": "World Cup 2026 - UEFA qualifications, Group D, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "UKR",
+            "r_homeTeam_c_teamERC": "ISL"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-10T12:00:00Z",
+            "homeScore": 0,
+            "location": "Fadil Vokrri Stadium, Pristina",
+            "title": "World Cup 2026 - UEFA qualifications, Group B, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "SVN",
+            "r_homeTeam_c_teamERC": "KOS"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-10-10T12:00:00Z",
+            "homeScore": 0,
+            "location": "Friends Arena, Solna",
+            "title": "World Cup 2026 - UEFA qualifications, Group B, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "SUI",
+            "r_homeTeam_c_teamERC": "SWE"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-10-11T12:00:00Z",
+            "homeScore": 2,
+            "location": "Daugava Stadium, Riga",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "AND",
+            "r_homeTeam_c_teamERC": "LAT"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-11T12:00:00Z",
+            "homeScore": 2,
+            "location": "Puskás Aréna, Budapest",
+            "title": "World Cup 2026 - UEFA qualifications, Group F, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "ARM",
+            "r_homeTeam_c_teamERC": "HUN"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-11T12:00:00Z",
+            "homeScore": 5,
+            "location": "Ullevaal Stadium, Oslo",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "ISR",
+            "r_homeTeam_c_teamERC": "NOR"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-10-11T12:00:00Z",
+            "homeScore": 1,
+            "location": "A. Le Coq Arena, Tallinn",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ITA",
+            "r_homeTeam_c_teamERC": "EST"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-11T12:00:00Z",
+            "homeScore": 1,
+            "location": "Estádio José Alvalade, Lisbon",
+            "title": "World Cup 2026 - UEFA qualifications, Group F, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "IRL",
+            "r_homeTeam_c_teamERC": "POR"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-10-11T12:00:00Z",
+            "homeScore": 0,
+            "location": "Dubočica Stadium, Leskovac",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ALB",
+            "r_homeTeam_c_teamERC": "SRB"
+        },
+        {
+            "awayScore": 6,
+            "date": "2025-10-11T12:00:00Z",
+            "homeScore": 1,
+            "location": "Vasil Levski National Stadium, Sofia",
+            "title": "World Cup 2026 - UEFA qualifications, Group E, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "TUR",
+            "r_homeTeam_c_teamERC": "BUL"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-11T12:00:00Z",
+            "homeScore": 2,
+            "location": "Estadio Manuel Martínez Valero, Elche",
+            "title": "World Cup 2026 - UEFA qualifications, Group E, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "GEO",
+            "r_homeTeam_c_teamERC": "ESP"
+        },
+        {
+            "awayScore": 4,
+            "date": "2025-10-12T12:00:00Z",
+            "homeScore": 0,
+            "location": "San Marino Stadium, Serravalle",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "CYP",
+            "r_homeTeam_c_teamERC": "SMR"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-10-12T12:00:00Z",
+            "homeScore": 2,
+            "location": "Torsvollur, Tórshavn",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "CZE",
+            "r_homeTeam_c_teamERC": "FRO"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-12T12:00:00Z",
+            "homeScore": 4,
+            "location": "Johan Cruyff Arena, Amsterdam",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "FIN",
+            "r_homeTeam_c_teamERC": "NED"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-10-12T12:00:00Z",
+            "homeScore": 2,
+            "location": "Hampden Park, Glasgow",
+            "title": "World Cup 2026 - UEFA qualifications, Group C, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "BLR",
+            "r_homeTeam_c_teamERC": "SCO"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-10-12T12:00:00Z",
+            "homeScore": 0,
+            "location": "S. Darius & S. Girenas Stadium, Kaunas",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "POL",
+            "r_homeTeam_c_teamERC": "LTU"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-12T12:00:00Z",
+            "homeScore": 1,
+            "location": "National Arena, Bucharest",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "AUT",
+            "r_homeTeam_c_teamERC": "ROU"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-10-12T12:00:00Z",
+            "homeScore": 3,
+            "location": "Parken Stadium, Copenhagen",
+            "title": "World Cup 2026 - UEFA qualifications, Group C, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "GRE",
+            "r_homeTeam_c_teamERC": "DEN"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-12T12:00:00Z",
+            "homeScore": 3,
+            "location": "Anđelko Herjavec Stadium, Varaždin",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "GIB",
+            "r_homeTeam_c_teamERC": "CRO"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-10-13T12:00:00Z",
+            "homeScore": 2,
+            "location": "Laugardalsvollur, REYKJAVIK",
+            "title": "World Cup 2026 - UEFA qualifications, Group D, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "FRA",
+            "r_homeTeam_c_teamERC": "ISL"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-10-13T12:00:00Z",
+            "homeScore": 0,
+            "location": "Nya Ullevi, Gothenburg",
+            "title": "World Cup 2026 - UEFA qualifications, Group B, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "KOS",
+            "r_homeTeam_c_teamERC": "SWE"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-10-13T12:00:00Z",
+            "homeScore": 0,
+            "location": "Windsor Park, Belfast",
+            "title": "World Cup 2026 - UEFA qualifications, Group A, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "GER",
+            "r_homeTeam_c_teamERC": "NIR"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-10-13T12:00:00Z",
+            "homeScore": 2,
+            "location": "Marshal Józef Piłsudski Stadium, Kraków",
+            "title": "World Cup 2026 - UEFA qualifications, Group D, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "AZE",
+            "r_homeTeam_c_teamERC": "UKR"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-13T12:00:00Z",
+            "homeScore": 2,
+            "location": "Anton Malatinský Stadium, Trnava",
+            "title": "World Cup 2026 - UEFA qualifications, Group A, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "LUX",
+            "r_homeTeam_c_teamERC": "SVK"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-10-13T12:00:00Z",
+            "homeScore": 1,
+            "location": "Toše Proeski National Arena, Skopje",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "KAZ",
+            "r_homeTeam_c_teamERC": "MKD"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-13T12:00:00Z",
+            "homeScore": 0,
+            "location": "Stožice Stadium, Ljubljana",
+            "title": "World Cup 2026 - UEFA qualifications, Group B, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "SUI",
+            "r_homeTeam_c_teamERC": "SVN"
+        },
+        {
+            "awayScore": 4,
+            "date": "2025-10-13T12:00:00Z",
+            "homeScore": 2,
+            "location": "Cardiff City Stadium, Cardiff",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "BEL",
+            "r_homeTeam_c_teamERC": "WAL"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-10-14T12:00:00Z",
+            "homeScore": 1,
+            "location": "A. Le Coq Arena, Tallinn",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "MDA",
+            "r_homeTeam_c_teamERC": "EST"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-10-14T12:00:00Z",
+            "homeScore": 4,
+            "location": "Kocaeli Stadium, İzmit",
+            "title": "World Cup 2026 - UEFA qualifications, Group E, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "GEO",
+            "r_homeTeam_c_teamERC": "TUR"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-10-14T12:00:00Z",
+            "homeScore": 2,
+            "location": "Estádio José Alvalade, Lisbon",
+            "title": "World Cup 2026 - UEFA qualifications, Group F, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "HUN",
+            "r_homeTeam_c_teamERC": "POR"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-14T12:00:00Z",
+            "homeScore": 3,
+            "location": "Stadio Friuli, Udine",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "ISR",
+            "r_homeTeam_c_teamERC": "ITA"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-14T12:00:00Z",
+            "homeScore": 1,
+            "location": "Aviva Stadium, Dublin",
+            "title": "World Cup 2026 - UEFA qualifications, Group F, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "ARM",
+            "r_homeTeam_c_teamERC": "IRL"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-10-14T12:00:00Z",
+            "homeScore": 1,
+            "location": "Nou Estadi a Encamp, Encamp",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "SRB",
+            "r_homeTeam_c_teamERC": "AND"
+        },
+        {
+            "awayScore": 5,
+            "date": "2025-10-14T12:00:00Z",
+            "homeScore": 0,
+            "location": "Daugava Stadium, Riga",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ENG",
+            "r_homeTeam_c_teamERC": "LAT"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-10-14T12:00:00Z",
+            "homeScore": 4,
+            "location": "Jose Zorrilla, Valladolid",
+            "title": "World Cup 2026 - UEFA qualifications, Group E, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "BUL",
+            "r_homeTeam_c_teamERC": "ESP"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-11-13T12:00:00Z",
+            "homeScore": 0,
+            "location": "Bakcell Arena, Baku",
+            "title": "World Cup 2026 - UEFA qualifications, Group D, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ISL",
+            "r_homeTeam_c_teamERC": "AZE"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-13T12:00:00Z",
+            "homeScore": 4,
+            "location": "Ullevaal Stadium, Oslo",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "EST",
+            "r_homeTeam_c_teamERC": "NOR"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-13T12:00:00Z",
+            "homeScore": 0,
+            "location": "Vazgen Sargsyan Republican Stadium, Yerevan",
+            "title": "World Cup 2026 - UEFA qualifications, Group F, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "HUN",
+            "r_homeTeam_c_teamERC": "ARM"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-11-13T12:00:00Z",
+            "homeScore": 0,
+            "location": "Zimbru Stadium, Chișinău",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ITA",
+            "r_homeTeam_c_teamERC": "MDA"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-11-13T12:00:00Z",
+            "homeScore": 2,
+            "location": "Wembley Stadium, London",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "SRB",
+            "r_homeTeam_c_teamERC": "ENG"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-11-13T12:00:00Z",
+            "homeScore": 2,
+            "location": "Aviva Stadium, Dublin",
+            "title": "World Cup 2026 - UEFA qualifications, Group F, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "POR",
+            "r_homeTeam_c_teamERC": "IRL"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-11-13T12:00:00Z",
+            "homeScore": 4,
+            "location": "Parc des Princes, PARIS",
+            "title": "World Cup 2026 - UEFA qualifications, Group D, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "UKR",
+            "r_homeTeam_c_teamERC": "FRA"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-13T12:00:00Z",
+            "homeScore": 0,
+            "location": "Nou Estadi a Encamp, Encamp",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ALB",
+            "r_homeTeam_c_teamERC": "AND"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-14T12:00:00Z",
+            "homeScore": 0,
+            "location": "Olympic Stadium, Helsinki",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "MLT",
+            "r_homeTeam_c_teamERC": "FIN"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-11-14T12:00:00Z",
+            "homeScore": 0,
+            "location": "Stade de Luxembourg, Luxembourg",
+            "title": "World Cup 2026 - UEFA qualifications, Group A, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "GER",
+            "r_homeTeam_c_teamERC": "LUX"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-11-14T12:00:00Z",
+            "homeScore": 1,
+            "location": "Europa Point Stadium, Gibraltar International Airport",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "MNE",
+            "r_homeTeam_c_teamERC": "GIB"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-14T12:00:00Z",
+            "homeScore": 3,
+            "location": "Stadion HNK Rijeka, Rijeka",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "FRO",
+            "r_homeTeam_c_teamERC": "CRO"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-14T12:00:00Z",
+            "homeScore": 1,
+            "location": "PGE Narodowy (National Stadium), Warsaw",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "NED",
+            "r_homeTeam_c_teamERC": "POL"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-11-14T12:00:00Z",
+            "homeScore": 1,
+            "location": "Košická futbalová Aréna, Košice",
+            "title": "World Cup 2026 - UEFA qualifications, Group A, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "NIR",
+            "r_homeTeam_c_teamERC": "SVK"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-11-15T12:00:00Z",
+            "homeScore": 0,
+            "location": "Alphamega Stadium, Kolossi",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "AUT",
+            "r_homeTeam_c_teamERC": "CYP"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-15T12:00:00Z",
+            "homeScore": 1,
+            "location": "Astana Arena, Nur-Sultan",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "BEL",
+            "r_homeTeam_c_teamERC": "KAZ"
+        },
+        {
+            "awayScore": 4,
+            "date": "2025-11-15T12:00:00Z",
+            "homeScore": 0,
+            "location": "National Stadium, Tbilisi",
+            "title": "World Cup 2026 - UEFA qualifications, Group E, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ESP",
+            "r_homeTeam_c_teamERC": "GEO"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-11-15T12:00:00Z",
+            "homeScore": 2,
+            "location": "Atatürk Spor Kompleksi Matlı Stadyumu, Bursa",
+            "title": "World Cup 2026 - UEFA qualifications, Group E, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "BUL",
+            "r_homeTeam_c_teamERC": "TUR"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-15T12:00:00Z",
+            "homeScore": 0,
+            "location": "Rheinpark Stadion, Vaduz",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "WAL",
+            "r_homeTeam_c_teamERC": "LIE"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-15T12:00:00Z",
+            "homeScore": 4,
+            "location": "Stade de Genève, Geneva",
+            "title": "World Cup 2026 - UEFA qualifications, Group B, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "SWE",
+            "r_homeTeam_c_teamERC": "SUI"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-11-15T12:00:00Z",
+            "homeScore": 2,
+            "location": "Parken Stadium, Copenhagen",
+            "title": "World Cup 2026 - UEFA qualifications, Group C, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "BLR",
+            "r_homeTeam_c_teamERC": "DEN"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-15T12:00:00Z",
+            "homeScore": 3,
+            "location": "Bilino Polje Stadium, Zenica",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "ROU",
+            "r_homeTeam_c_teamERC": "BIH"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-11-15T12:00:00Z",
+            "homeScore": 0,
+            "location": "Stožice Stadium, Ljubljana",
+            "title": "World Cup 2026 - UEFA qualifications, Group B, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "KOS",
+            "r_homeTeam_c_teamERC": "SVN"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-11-15T12:00:00Z",
+            "homeScore": 3,
+            "location": "Karaiskaki Stadium, Pireas",
+            "title": "World Cup 2026 - UEFA qualifications, Group C, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "SCO",
+            "r_homeTeam_c_teamERC": "GRE"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-11-16T12:00:00Z",
+            "homeScore": 2,
+            "location": "Puskás Aréna, Budapest",
+            "title": "World Cup 2026 - UEFA qualifications, Group F, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "IRL",
+            "r_homeTeam_c_teamERC": "HUN"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-16T12:00:00Z",
+            "homeScore": 9,
+            "location": "Estádio do Dragão, PORTO",
+            "title": "World Cup 2026 - UEFA qualifications, Group F, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "ARM",
+            "r_homeTeam_c_teamERC": "POR"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-11-16T12:00:00Z",
+            "homeScore": 2,
+            "location": "Wojska Polskiego, Warsaw",
+            "title": "World Cup 2026 - UEFA qualifications, Group D, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "ISL",
+            "r_homeTeam_c_teamERC": "UKR"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-16T12:00:00Z",
+            "homeScore": 2,
+            "location": "Dubočica Stadium, Leskovac",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "LAT",
+            "r_homeTeam_c_teamERC": "SRB"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-11-16T12:00:00Z",
+            "homeScore": 0,
+            "location": "Air Albania Stadium, Tirana",
+            "title": "World Cup 2026 - UEFA qualifications, Group K, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "ENG",
+            "r_homeTeam_c_teamERC": "ALB"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-11-16T12:00:00Z",
+            "homeScore": 1,
+            "location": "Tofiq Bahramov Republican Stadium, Baku",
+            "title": "World Cup 2026 - UEFA qualifications, Group D, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "FRA",
+            "r_homeTeam_c_teamERC": "AZE"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-16T12:00:00Z",
+            "homeScore": 4,
+            "location": "Zimbru Stadium, Chișinău",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "MDA",
+            "r_homeTeam_c_teamERC": "ISR"
+        },
+        {
+            "awayScore": 4,
+            "date": "2025-11-16T12:00:00Z",
+            "homeScore": 1,
+            "location": "Stadio Giuseppe Meazza, Milan",
+            "title": "World Cup 2026 - UEFA qualifications, Group I, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "NOR",
+            "r_homeTeam_c_teamERC": "ITA"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-11-17T12:00:00Z",
+            "homeScore": 6,
+            "location": "Zentralstadion, Leipzig",
+            "title": "World Cup 2026 - UEFA qualifications, Group A, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "SVK",
+            "r_homeTeam_c_teamERC": "GER"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-11-17T12:00:00Z",
+            "homeScore": 4,
+            "location": "Johan Cruyff Arena, Amsterdam",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "LTU",
+            "r_homeTeam_c_teamERC": "NED"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-11-17T12:00:00Z",
+            "homeScore": 1,
+            "location": "Windsor Park, Belfast",
+            "title": "World Cup 2026 - UEFA qualifications, Group A, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "LUX",
+            "r_homeTeam_c_teamERC": "NIR"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-11-17T12:00:00Z",
+            "homeScore": 2,
+            "location": "Podgorica City Stadium, Podgorica",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "CRO",
+            "r_homeTeam_c_teamERC": "MNE"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-11-17T12:00:00Z",
+            "homeScore": 6,
+            "location": "Andruv Stadium, Olomouc",
+            "title": "World Cup 2026 - UEFA qualifications, Group L, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "GIB",
+            "r_homeTeam_c_teamERC": "CZE"
+        },
+        {
+            "awayScore": 3,
+            "date": "2025-11-17T12:00:00Z",
+            "homeScore": 2,
+            "location": "Ta'Qali National Stadium, Ta' Qali",
+            "title": "World Cup 2026 - UEFA qualifications, Group G, Round One",
+            "outcome": {
+                "key": "AwayWin"
+            },
+            "r_awayTeam_c_teamERC": "POL",
+            "r_homeTeam_c_teamERC": "MLT"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-18T12:00:00Z",
+            "homeScore": 1,
+            "location": "Ernst Happel Stadium, Vienna",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "BIH",
+            "r_homeTeam_c_teamERC": "AUT"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-18T12:00:00Z",
+            "homeScore": 7,
+            "location": "National Arena, Bucharest",
+            "title": "World Cup 2026 - UEFA qualifications, Group H, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "SMR",
+            "r_homeTeam_c_teamERC": "ROU"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-18T12:00:00Z",
+            "homeScore": 7,
+            "location": "Cardiff City Stadium, Cardiff",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "MKD",
+            "r_homeTeam_c_teamERC": "WAL"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-18T12:00:00Z",
+            "homeScore": 2,
+            "location": "Vasil Levski National Stadium, Sofia",
+            "title": "World Cup 2026 - UEFA qualifications, Group E, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "GEO",
+            "r_homeTeam_c_teamERC": "BUL"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-18T12:00:00Z",
+            "homeScore": 1,
+            "location": "Friends Arena, Solna",
+            "title": "World Cup 2026 - UEFA qualifications, Group B, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "SVN",
+            "r_homeTeam_c_teamERC": "SWE"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-11-18T12:00:00Z",
+            "homeScore": 7,
+            "location": "Sclessin - Stade Maurice Dufrasne, Liège",
+            "title": "World Cup 2026 - UEFA qualifications, Group J, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "LIE",
+            "r_homeTeam_c_teamERC": "BEL"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-11-18T12:00:00Z",
+            "homeScore": 2,
+            "location": "Estadio La Cartuja de Sevilla, Seville",
+            "title": "World Cup 2026 - UEFA qualifications, Group E, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "TUR",
+            "r_homeTeam_c_teamERC": "ESP"
+        },
+        {
+            "awayScore": 0,
+            "date": "2025-11-18T12:00:00Z",
+            "homeScore": 0,
+            "location": "ZTE Arena, Zalaegerszeg",
+            "title": "World Cup 2026 - UEFA qualifications, Group C, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "GRE",
+            "r_homeTeam_c_teamERC": "BLR"
+        },
+        {
+            "awayScore": 1,
+            "date": "2025-11-18T12:00:00Z",
+            "homeScore": 1,
+            "location": "Fadil Vokrri Stadium, Pristina",
+            "title": "World Cup 2026 - UEFA qualifications, Group B, Round One",
+            "outcome": {
+                "key": "Tie"
+            },
+            "r_awayTeam_c_teamERC": "SUI",
+            "r_homeTeam_c_teamERC": "KOS"
+        },
+        {
+            "awayScore": 2,
+            "date": "2025-11-18T12:00:00Z",
+            "homeScore": 4,
+            "location": "Hampden Park, Glasgow",
+            "title": "World Cup 2026 - UEFA qualifications, Group C, Round One",
+            "outcome": {
+                "key": "HomeWin"
+            },
+            "r_awayTeam_c_teamERC": "DEN",
+            "r_homeTeam_c_teamERC": "SCO"
+        }
+    ]
+}

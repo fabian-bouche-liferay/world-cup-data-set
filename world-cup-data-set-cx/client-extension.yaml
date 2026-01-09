@@ -1,0 +1,23 @@
+assemble:
+    - from: build/static
+      into: static
+country-flag-global-css:
+    name: Country Flag global css
+    type: globalCSS
+    url: countryFlag/assets/countryFlag-*.css
+country-flag-fds-cell-renderer:
+    name: Country Flag Frontend Data Set Cell Renderer
+    type: fdsCellRenderer
+    url: countryFlag/assets/countryFlag-*.js
+current-form-fds-cell-renderer:
+    name: Current Form Frontend Data Set Cell Renderer
+    type: fdsCellRenderer
+    url: currentForm/assets/currentForm-*.js
+score-renderer-fds-cell-renderer:
+    name: Score Renderer Frontend Data Set Cell Renderer
+    type: fdsCellRenderer
+    url: scoreRenderer/assets/scoreRenderer-*.js
+team-fds-filter:
+    name: Team FDS Filter
+    type: fdsFilter
+    url: teamFilter/assets/teamFilter-*.js    

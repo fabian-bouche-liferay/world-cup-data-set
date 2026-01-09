@@ -1,0 +1,1075 @@
+{
+    "configuration": {
+        "className": "com.liferay.object.admin.rest.dto.v1_0.ObjectFolder",
+		"parameters": {
+			"containsHeaders": "true",
+			"createStrategy": "UPSERT",
+			"importStrategy": "ON_ERROR_FAIL",
+			"updateStrategy": "UPDATE"
+		},
+		"taskItemDelegateName": "DEFAULT"
+    },
+    "items": [
+        {
+            "objectFolderItems": [
+                {
+                    "positionY": 558,
+                    "objectDefinition": {
+                        "enableComments": false,
+                        "objectRelationships": [
+                            {
+                                "objectDefinitionSystem2": false,
+                                "objectField": {
+                                    "relationshipType": "oneToMany",
+                                    "indexed": true,
+                                    "defaultValue": "null",
+                                    "localized": false,
+                                    "objectRelationshipExternalReferenceCode": "b36541b1-9a02-49c3-ee3b-862a3b8dac08",
+                                    "objectFieldSettings": [
+                                        {
+                                            "name": "objectDefinition1ShortName",
+                                            "value": "Team"
+                                        },
+                                        {
+                                            "name": "objectRelationshipERCObjectFieldName",
+                                            "value": "r_homeTeam_c_teamERC"
+                                        }
+                                    ],
+                                    "readOnly": "false",
+                                    "DBType": "Long",
+                                    "label": {
+                                        "en_US": "Home Team"
+                                    },
+                                    "type": "Long",
+                                    "required": false,
+                                    "externalReferenceCode": "7cef7653-8b64-a167-508b-ecc9e9b93a03",
+                                    "indexedAsKeyword": false,
+                                    "system": false,
+                                    "indexedLanguageId": "",
+                                    "unique": false,
+                                    "name": "r_homeTeam_c_teamId",
+                                    "objectDefinitionExternalReferenceCode1": "1dca3b28-f3b8-cbcf-fe24-f44a57b10c8e",
+                                    "state": false,
+                                    "businessType": "Relationship",
+                                    "readOnlyConditionExpression": ""
+                                },
+                                "parameterObjectFieldName": "",
+                                "parameterObjectFieldId": 0,
+                                "label": {
+                                    "en_US": "Home Team"
+                                },
+                                "reverse": false,
+                                "type": "oneToMany",
+                                "externalReferenceCode": "b36541b1-9a02-49c3-ee3b-862a3b8dac08",
+                                "edge": false,
+                                "objectDefinitionModifiable2": true,
+                                "system": false,
+                                "name": "homeTeam",
+                                "objectDefinitionScope2": "company",
+                                "deletionType": "disassociate",
+                                "objectDefinitionExternalReferenceCode1": "1dca3b28-f3b8-cbcf-fe24-f44a57b10c8e",
+                                "objectDefinitionExternalReferenceCode2": "2318765b-4176-4789-bf0d-54f0541a1282",
+                                "objectDefinitionName2": "Game"
+                            },
+                            {
+                                "objectDefinitionSystem2": false,
+                                "objectField": {
+                                    "relationshipType": "oneToMany",
+                                    "indexed": true,
+                                    "defaultValue": "null",
+                                    "localized": false,
+                                    "objectRelationshipExternalReferenceCode": "6386fd06-1d86-4acc-0521-26545d29d639",
+                                    "objectFieldSettings": [
+                                        {
+                                            "name": "objectDefinition1ShortName",
+                                            "value": "Team"
+                                        },
+                                        {
+                                            "name": "objectRelationshipERCObjectFieldName",
+                                            "value": "r_awayTeam_c_teamERC"
+                                        }
+                                    ],
+                                    "readOnly": "false",
+                                    "DBType": "Long",
+                                    "label": {
+                                        "en_US": "Away Team"
+                                    },
+                                    "type": "Long",
+                                    "required": false,
+                                    "externalReferenceCode": "5a8001b5-fd80-b48e-6a14-a23933e7de01",
+                                    "indexedAsKeyword": false,
+                                    "system": false,
+                                    "indexedLanguageId": "",
+                                    "unique": false,
+                                    "name": "r_awayTeam_c_teamId",
+                                    "objectDefinitionExternalReferenceCode1": "1dca3b28-f3b8-cbcf-fe24-f44a57b10c8e",
+                                    "state": false,
+                                    "businessType": "Relationship",
+                                    "readOnlyConditionExpression": ""
+                                },
+                                "parameterObjectFieldName": "",
+                                "parameterObjectFieldId": 0,
+                                "label": {
+                                    "en_US": "Away Team"
+                                },
+                                "reverse": false,
+                                "type": "oneToMany",
+                                "externalReferenceCode": "6386fd06-1d86-4acc-0521-26545d29d639",
+                                "edge": false,
+                                "objectDefinitionModifiable2": true,
+                                "system": false,
+                                "name": "awayTeam",
+                                "objectDefinitionScope2": "company",
+                                "deletionType": "disassociate",
+                                "objectDefinitionExternalReferenceCode1": "1dca3b28-f3b8-cbcf-fe24-f44a57b10c8e",
+                                "objectDefinitionExternalReferenceCode2": "2318765b-4176-4789-bf0d-54f0541a1282",
+                                "objectDefinitionName2": "Game"
+                            }
+                        ],
+                        "enableObjectEntryVersioning": false,
+                        "objectFolderExternalReferenceCode": "1311cc98-3fa3-4f13-5d05-55ac45b31bea",
+                        "enableCategorization": true,
+                        "enableFriendlyURLCustomization": false,
+                        "accountEntryRestrictedObjectFieldName": "",
+                        "className": "com.liferay.object.model.ObjectDefinition#U1X5",
+                        "objectActions": [],
+                        "enableLocalization": true,
+                        "accountEntryRestricted": false,
+                        "enableFormContainer": true,
+                        "enableObjectEntrySubscription": false,
+                        "externalReferenceCode": "1dca3b28-f3b8-cbcf-fe24-f44a57b10c8e",
+                        "workflowDefinitionLinks": [],
+                        "objectFields": [
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "true",
+                                "DBType": "String",
+                                "label": {
+                                    "en_US": "Author"
+                                },
+                                "type": "String",
+                                "required": false,
+                                "externalReferenceCode": "4c0fe882-9329-5da3-c2cb-c5d553b9e248",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "creator",
+                                "state": false,
+                                "businessType": "Text",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "true",
+                                "DBType": "Date",
+                                "label": {
+                                    "en_US": "Create Date"
+                                },
+                                "type": "Date",
+                                "required": false,
+                                "externalReferenceCode": "81f5d680-225e-04ae-0677-9b55a199447e",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "createDate",
+                                "state": false,
+                                "businessType": "Date",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "false",
+                                "DBType": "String",
+                                "label": {
+                                    "en_US": "External Reference Code"
+                                },
+                                "type": "String",
+                                "required": false,
+                                "externalReferenceCode": "3988ebca-8c22-97a1-b7c4-bb539392079a",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "externalReferenceCode",
+                                "state": false,
+                                "businessType": "Text",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "timeStorage",
+                                        "value": "convertToUTC"
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "DateTime",
+                                "label": {
+                                    "en_US": "Display Date"
+                                },
+                                "type": "DateTime",
+                                "required": false,
+                                "externalReferenceCode": "a191dd49-0a75-1a6e-93ca-22b8f181b1d3",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "displayDate",
+                                "state": false,
+                                "businessType": "DateTime",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "timeStorage",
+                                        "value": "convertToUTC"
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "DateTime",
+                                "label": {
+                                    "en_US": "Expiration Date"
+                                },
+                                "type": "DateTime",
+                                "required": false,
+                                "externalReferenceCode": "813d01fc-30fd-3ddc-4f0f-69a602278b52",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "expirationDate",
+                                "state": false,
+                                "businessType": "DateTime",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "timeStorage",
+                                        "value": "convertToUTC"
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "DateTime",
+                                "label": {
+                                    "en_US": "Review Date"
+                                },
+                                "type": "DateTime",
+                                "required": false,
+                                "externalReferenceCode": "0ad809d0-a0d6-d186-73ab-acb361c2312b",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "reviewDate",
+                                "state": false,
+                                "businessType": "DateTime",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": true,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "true",
+                                "DBType": "Long",
+                                "label": {
+                                    "en_US": "ID"
+                                },
+                                "type": "Long",
+                                "required": false,
+                                "externalReferenceCode": "cbe61af4-7879-4cdc-54cf-e4b3703a8cbf",
+                                "indexedAsKeyword": true,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "id",
+                                "state": false,
+                                "businessType": "LongInteger",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "true",
+                                "DBType": "Date",
+                                "label": {
+                                    "en_US": "Modified Date"
+                                },
+                                "type": "Date",
+                                "required": false,
+                                "externalReferenceCode": "c117447f-dbb8-8122-3ede-b13c627c7b64",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "modifiedDate",
+                                "state": false,
+                                "businessType": "Date",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "true",
+                                "DBType": "Integer",
+                                "label": {
+                                    "en_US": "Status"
+                                },
+                                "type": "Integer",
+                                "required": false,
+                                "externalReferenceCode": "2cd4b495-06f8-bcde-01ac-fc8b0332e0ab",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "status",
+                                "state": false,
+                                "businessType": "Text",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": true,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "showCounter",
+                                        "value": false
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "String",
+                                "label": {
+                                    "en_US": "Name"
+                                },
+                                "type": "String",
+                                "required": false,
+                                "externalReferenceCode": "21a221e8-7367-2e4b-03f9-4c12b66fa6b2",
+                                "indexedAsKeyword": false,
+                                "system": false,
+                                "indexedLanguageId": "en_US",
+                                "unique": false,
+                                "name": "name",
+                                "state": false,
+                                "businessType": "Text",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": true,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "showCounter",
+                                        "value": false
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "String",
+                                "label": {
+                                    "en_US": "Country Flag Code"
+                                },
+                                "type": "String",
+                                "required": false,
+                                "externalReferenceCode": "e4c07cde-103b-199e-e014-82bb0e81ca59",
+                                "indexedAsKeyword": false,
+                                "system": false,
+                                "indexedLanguageId": "en_US",
+                                "unique": false,
+                                "name": "countryFlagCode",
+                                "state": false,
+                                "businessType": "Text",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": true,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "showCounter",
+                                        "value": false
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "String",
+                                "label": {
+                                    "en_US": "Current form"
+                                },
+                                "type": "String",
+                                "required": false,
+                                "externalReferenceCode": "75e56364-f714-ca27-fcfc-c0022799a2dd",
+                                "indexedAsKeyword": false,
+                                "system": false,
+                                "indexedLanguageId": "en_US",
+                                "unique": false,
+                                "name": "currentForm",
+                                "state": false,
+                                "businessType": "Text",
+                                "readOnlyConditionExpression": ""
+                            }
+                        ],
+                        "restContextPath": "/o/c/teams",
+                        "scope": "company",
+                        "portlet": true,
+                        "friendlyURLSeparator": "c_team",
+                        "modifiable": true,
+                        "parameterRequired": false,
+                        "enableObjectEntryHistory": false,
+                        "creator": {
+                            "familyName": "Test",
+                            "givenName": "Test",
+                            "name": "Test Test",
+                            "additionalName": "",
+                            "contentType": "UserAccount"
+                        },
+                        "titleObjectFieldName": "externalReferenceCode",
+                        "objectValidationRules": [],
+                        "active": true,
+                        "defaultLanguageId": "en_US",
+                        "enableIndexSearch": true,
+                        "label": {
+                            "en_US": "Team"
+                        },
+                        "panelCategoryKey": "control_panel.object",
+                        "pluralLabel": {
+                            "en_US": "Teams"
+                        },
+                        "enableObjectEntrySchedule": false,
+                        "objectLayouts": [],
+                        "system": false,
+                        "objectDefinitionSettings": [],
+                        "objectViews": [
+                            {
+                                "objectDefinitionExternalReferenceCode": "1dca3b28-f3b8-cbcf-fe24-f44a57b10c8e",
+                                "name": {
+                                    "en_US": "Default view"
+                                },
+                                "objectViewFilterColumns": [],
+                                "objectViewSortColumns": [],
+                                "defaultObjectView": true,
+                                "objectViewColumns": [
+                                    {
+                                        "objectFieldName": "externalReferenceCode",
+                                        "label": {
+                                            "en_US": "External Reference Code"
+                                        },
+                                        "priority": 0
+                                    },
+                                    {
+                                        "objectFieldName": "name",
+                                        "label": {
+                                            "en_US": "Name"
+                                        },
+                                        "priority": 1
+                                    },
+                                    {
+                                        "objectFieldName": "countryFlagCode",
+                                        "label": {
+                                            "en_US": "Country Flag Code"
+                                        },
+                                        "priority": 2
+                                    },
+                                    {
+                                        "objectFieldName": "currentForm",
+                                        "label": {
+                                            "en_US": "Current form"
+                                        },
+                                        "priority": 3
+                                    }
+                                ]
+                            }
+                        ],
+                        "enableObjectEntryDraft": false,
+                        "name": "Team",
+                        "status": {
+                            "label_i18n": "Approved",
+                            "code": 0,
+                            "label": "approved"
+                        }
+                    },
+                    "objectDefinitionExternalReferenceCode": "1dca3b28-f3b8-cbcf-fe24-f44a57b10c8e",
+                    "linkedObjectDefinition": false,
+                    "positionX": 1671
+                },
+                {
+                    "positionY": 200,
+                    "objectDefinition": {
+                        "enableComments": false,
+                        "objectRelationships": [],
+                        "enableObjectEntryVersioning": false,
+                        "objectFolderExternalReferenceCode": "1311cc98-3fa3-4f13-5d05-55ac45b31bea",
+                        "enableCategorization": true,
+                        "enableFriendlyURLCustomization": false,
+                        "accountEntryRestrictedObjectFieldName": "",
+                        "className": "com.liferay.object.model.ObjectDefinition#E7D6",
+                        "objectActions": [],
+                        "enableLocalization": true,
+                        "accountEntryRestricted": false,
+                        "enableFormContainer": true,
+                        "enableObjectEntrySubscription": false,
+                        "externalReferenceCode": "2318765b-4176-4789-bf0d-54f0541a1282",
+                        "workflowDefinitionLinks": [],
+                        "objectFields": [
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "true",
+                                "DBType": "String",
+                                "label": {
+                                    "en_US": "Author"
+                                },
+                                "type": "String",
+                                "required": false,
+                                "externalReferenceCode": "a07cf5bf-a199-e71a-787d-9c808bbbecc2",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "creator",
+                                "state": false,
+                                "businessType": "Text",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "true",
+                                "DBType": "Date",
+                                "label": {
+                                    "en_US": "Create Date"
+                                },
+                                "type": "Date",
+                                "required": false,
+                                "externalReferenceCode": "60067e97-8faa-a726-8570-3011d4ca3750",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "createDate",
+                                "state": false,
+                                "businessType": "Date",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "false",
+                                "DBType": "String",
+                                "label": {
+                                    "en_US": "External Reference Code"
+                                },
+                                "type": "String",
+                                "required": false,
+                                "externalReferenceCode": "c1912fe6-0504-d908-f3a8-e9430864c00b",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "externalReferenceCode",
+                                "state": false,
+                                "businessType": "Text",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "timeStorage",
+                                        "value": "convertToUTC"
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "DateTime",
+                                "label": {
+                                    "en_US": "Display Date"
+                                },
+                                "type": "DateTime",
+                                "required": false,
+                                "externalReferenceCode": "2df4758e-35df-3ed9-fc2d-76c93dfd8374",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "displayDate",
+                                "state": false,
+                                "businessType": "DateTime",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "timeStorage",
+                                        "value": "convertToUTC"
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "DateTime",
+                                "label": {
+                                    "en_US": "Expiration Date"
+                                },
+                                "type": "DateTime",
+                                "required": false,
+                                "externalReferenceCode": "3c0a6ef9-217e-1fdc-0487-c9dded27ec02",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "expirationDate",
+                                "state": false,
+                                "businessType": "DateTime",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "timeStorage",
+                                        "value": "convertToUTC"
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "DateTime",
+                                "label": {
+                                    "en_US": "Review Date"
+                                },
+                                "type": "DateTime",
+                                "required": false,
+                                "externalReferenceCode": "a17ec181-541d-5825-03b7-5e73f6f75fc4",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "reviewDate",
+                                "state": false,
+                                "businessType": "DateTime",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": true,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "true",
+                                "DBType": "Long",
+                                "label": {
+                                    "en_US": "ID"
+                                },
+                                "type": "Long",
+                                "required": false,
+                                "externalReferenceCode": "39c96bf7-7323-5a31-9ac1-fc45407ecccd",
+                                "indexedAsKeyword": true,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "id",
+                                "state": false,
+                                "businessType": "LongInteger",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "true",
+                                "DBType": "Date",
+                                "label": {
+                                    "en_US": "Modified Date"
+                                },
+                                "type": "Date",
+                                "required": false,
+                                "externalReferenceCode": "31a6325f-a201-520c-c4b4-12aceca06c90",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "modifiedDate",
+                                "state": false,
+                                "businessType": "Date",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": false,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "true",
+                                "DBType": "Integer",
+                                "label": {
+                                    "en_US": "Status"
+                                },
+                                "type": "Integer",
+                                "required": false,
+                                "externalReferenceCode": "6739f9eb-3004-4870-6423-2bfd2c617c08",
+                                "indexedAsKeyword": false,
+                                "system": true,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "status",
+                                "state": false,
+                                "businessType": "Text",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "relationshipType": "oneToMany",
+                                "indexed": true,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectRelationshipExternalReferenceCode": "b36541b1-9a02-49c3-ee3b-862a3b8dac08",
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "objectDefinition1ShortName",
+                                        "value": "Team"
+                                    },
+                                    {
+                                        "name": "objectRelationshipERCObjectFieldName",
+                                        "value": "r_homeTeam_c_teamERC"
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "Long",
+                                "label": {
+                                    "en_US": "Home Team"
+                                },
+                                "type": "Long",
+                                "required": false,
+                                "externalReferenceCode": "7cef7653-8b64-a167-508b-ecc9e9b93a03",
+                                "indexedAsKeyword": false,
+                                "system": false,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "r_homeTeam_c_teamId",
+                                "objectDefinitionExternalReferenceCode1": "1dca3b28-f3b8-cbcf-fe24-f44a57b10c8e",
+                                "state": false,
+                                "businessType": "Relationship",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "relationshipType": "oneToMany",
+                                "indexed": true,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectRelationshipExternalReferenceCode": "6386fd06-1d86-4acc-0521-26545d29d639",
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "objectDefinition1ShortName",
+                                        "value": "Team"
+                                    },
+                                    {
+                                        "name": "objectRelationshipERCObjectFieldName",
+                                        "value": "r_awayTeam_c_teamERC"
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "Long",
+                                "label": {
+                                    "en_US": "Away Team"
+                                },
+                                "type": "Long",
+                                "required": false,
+                                "externalReferenceCode": "5a8001b5-fd80-b48e-6a14-a23933e7de01",
+                                "indexedAsKeyword": false,
+                                "system": false,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "r_awayTeam_c_teamId",
+                                "objectDefinitionExternalReferenceCode1": "1dca3b28-f3b8-cbcf-fe24-f44a57b10c8e",
+                                "state": false,
+                                "businessType": "Relationship",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "listTypeDefinitionExternalReferenceCode": "ed31ec5d-dbbd-3d18-27c2-d28487d71b5e",
+                                "indexed": true,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "false",
+                                "DBType": "String",
+                                "label": {
+                                    "en_US": "Outcome"
+                                },
+                                "type": "String",
+                                "required": false,
+                                "externalReferenceCode": "82e644a7-9c13-3f68-2280-c65ea8a74c7e",
+                                "indexedAsKeyword": false,
+                                "system": false,
+                                "indexedLanguageId": "en_US",
+                                "unique": false,
+                                "name": "outcome",
+                                "state": false,
+                                "businessType": "Picklist",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": true,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "false",
+                                "DBType": "Integer",
+                                "label": {
+                                    "en_US": "Home score"
+                                },
+                                "type": "Integer",
+                                "required": false,
+                                "externalReferenceCode": "ca9aca6d-95fa-607d-2b89-f1c765094699",
+                                "indexedAsKeyword": false,
+                                "system": false,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "homeScore",
+                                "state": false,
+                                "businessType": "Integer",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": true,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [],
+                                "readOnly": "false",
+                                "DBType": "Integer",
+                                "label": {
+                                    "en_US": "Away score"
+                                },
+                                "type": "Integer",
+                                "required": false,
+                                "externalReferenceCode": "e7873096-5637-67d7-f573-cc92ed36f411",
+                                "indexedAsKeyword": false,
+                                "system": false,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "awayScore",
+                                "state": false,
+                                "businessType": "Integer",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": true,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "timeStorage",
+                                        "value": "convertToUTC"
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "DateTime",
+                                "label": {
+                                    "en_US": "Date"
+                                },
+                                "type": "DateTime",
+                                "required": false,
+                                "externalReferenceCode": "69647169-8b25-26c6-eb44-812470424a66",
+                                "indexedAsKeyword": false,
+                                "system": false,
+                                "indexedLanguageId": "",
+                                "unique": false,
+                                "name": "date",
+                                "state": false,
+                                "businessType": "DateTime",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": true,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "showCounter",
+                                        "value": false
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "String",
+                                "label": {
+                                    "en_US": "Location"
+                                },
+                                "type": "String",
+                                "required": false,
+                                "externalReferenceCode": "d43a4a0f-109f-f30a-6698-0cae4b56c576",
+                                "indexedAsKeyword": false,
+                                "system": false,
+                                "indexedLanguageId": "en_US",
+                                "unique": false,
+                                "name": "location",
+                                "state": false,
+                                "businessType": "Text",
+                                "readOnlyConditionExpression": ""
+                            },
+                            {
+                                "indexed": true,
+                                "defaultValue": "null",
+                                "localized": false,
+                                "objectFieldSettings": [
+                                    {
+                                        "name": "showCounter",
+                                        "value": false
+                                    }
+                                ],
+                                "readOnly": "false",
+                                "DBType": "String",
+                                "label": {
+                                    "en_US": "Title"
+                                },
+                                "type": "String",
+                                "required": false,
+                                "externalReferenceCode": "45a7b746-3bd6-0551-3605-3c9a62acb468",
+                                "indexedAsKeyword": false,
+                                "system": false,
+                                "indexedLanguageId": "en_US",
+                                "unique": false,
+                                "name": "title",
+                                "state": false,
+                                "businessType": "Text",
+                                "readOnlyConditionExpression": ""
+                            }
+                        ],
+                        "restContextPath": "/o/c/games",
+                        "scope": "company",
+                        "portlet": true,
+                        "friendlyURLSeparator": "c_game",
+                        "modifiable": true,
+                        "parameterRequired": false,
+                        "enableObjectEntryHistory": false,
+                        "creator": {
+                            "familyName": "Test",
+                            "givenName": "Test",
+                            "name": "Test Test",
+                            "additionalName": "",
+                            "contentType": "UserAccount"
+                        },
+                        "titleObjectFieldName": "externalReferenceCode",
+                        "objectValidationRules": [],
+                        "active": true,
+                        "defaultLanguageId": "en_US",
+                        "enableIndexSearch": true,
+                        "label": {
+                            "en_US": "Game"
+                        },
+                        "panelCategoryKey": "control_panel.object",
+                        "pluralLabel": {
+                            "en_US": "Games"
+                        },
+                        "enableObjectEntrySchedule": false,
+                        "objectLayouts": [],
+                        "system": false,
+                        "objectDefinitionSettings": [],
+                        "objectViews": [
+                            {
+                                "objectDefinitionExternalReferenceCode": "2318765b-4176-4789-bf0d-54f0541a1282",
+                                "name": {
+                                    "en_US": "Default View"
+                                },
+                                "objectViewFilterColumns": [],
+                                "objectViewSortColumns": [],
+                                "defaultObjectView": true,
+                                "objectViewColumns": [
+                                    {
+                                        "objectFieldName": "date",
+                                        "label": {
+                                            "en_US": "Date"
+                                        },
+                                        "priority": 0
+                                    },
+                                    {
+                                        "objectFieldName": "r_homeTeam_c_teamId",
+                                        "label": {
+                                            "en_US": "Home Team"
+                                        },
+                                        "priority": 1
+                                    },
+                                    {
+                                        "objectFieldName": "homeScore",
+                                        "label": {
+                                            "en_US": "Home score"
+                                        },
+                                        "priority": 2
+                                    },
+                                    {
+                                        "objectFieldName": "outcome",
+                                        "label": {
+                                            "en_US": "Outcome"
+                                        },
+                                        "priority": 3
+                                    },
+                                    {
+                                        "objectFieldName": "awayScore",
+                                        "label": {
+                                            "en_US": "Away score"
+                                        },
+                                        "priority": 4
+                                    },
+                                    {
+                                        "objectFieldName": "r_awayTeam_c_teamId",
+                                        "label": {
+                                            "en_US": "Away Team"
+                                        },
+                                        "priority": 5
+                                    }
+                                ]
+                            }
+                        ],
+                        "enableObjectEntryDraft": false,
+                        "name": "Game",
+                        "status": {
+                            "label_i18n": "Approved",
+                            "code": 0,
+                            "label": "approved"
+                        }
+                    },
+                    "objectDefinitionExternalReferenceCode": "2318765b-4176-4789-bf0d-54f0541a1282",
+                    "linkedObjectDefinition": false,
+                    "positionX": 1097
+                }
+            ],
+            "name": "WorldCup",
+            "label": {
+                "en_US": "World Cup"
+            },
+            "externalReferenceCode": "1311cc98-3fa3-4f13-5d05-55ac45b31bea"
+        }
+    ]
+}
